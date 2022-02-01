@@ -1,12 +1,12 @@
-import './App.css';
+import './App.css'
+import Pheonix from './components/Pheonix'
 
 function App() {
-  
   return (
-    <div className="App">
-
+    <div>
+      <Pheonix />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

@@ -1,0 +1,27 @@
+.container{
+    margin: 0 auto;
+    background-color: rgb(112, 112, 148);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main{
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 30px;
+    /* padding-left: 95px; */
+}
+
+.main img{
+    margin: 50px 0 0px 100px;
+}
+
+.main h5{
+    border: 1px solid black;
+    width: 20px;
+    text-align: center;
+    position: relative;
+    left: 290px;
+    font-size: 15px;
+}
